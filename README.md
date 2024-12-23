@@ -17,6 +17,7 @@
 <h2 align="left">I code with</h2>
 
 ###
+```xml
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; height: 100%;">
@@ -53,6 +54,7 @@
         </div>
     </foreignObject>
 </svg>
+```
 
 <div align="left"class="background: white;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
