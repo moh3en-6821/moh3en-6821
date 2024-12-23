@@ -17,25 +17,9 @@
 <h2 align="left">I code with</h2>
 
 ###
-<svg fill="none" viewBox="0 0 400 300" width="400" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @media (prefers-color-scheme: dark) {
-          img {
-            filter: invert(1);
-            background: none;
-          }
-        }
-      </style>
-      <div align="center">
-        <img width="256" src="data:image/png;base64,omitted+for+brevity==" alt="bic"/>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-<div align="left"class="background: white;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+<div align="left">
+  <img style="background-color:red;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
