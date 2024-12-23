@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moh3en-6821&label=Profile%20views&color=0e75b6&style=flat" alt="moh3en-6821" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moh3en-6821" alt="moh3en-6821" /></a> </p>
+
 - 🔭 I’m currently working on **zarin6821**
 
 - 🌱 I’m currently learning **python, Django**
@@ -26,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moh3en-6821&show_icons=true&locale=en&layout=compact" alt="moh3en-6821" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moh3en-6821&show_icons=true&locale=en" alt="moh3en-6821" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moh3en-6821&" alt="moh3en-6821" /></p>
