@@ -17,7 +17,13 @@
 <h2 align="left">I code with</h2>
 
 ###
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  width="80"
+  height="80"
+  viewBox="0 0 80 80"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg">
 <div align="left" fill="white"">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
